@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am a software engineer who enjoys designing and implementing complex systems. With a strong software development and architecture background, I have successfully led numerous projects and contributed to developing complex systems that have transformed how businesses operate in various domains.
+
+I am also the co-founder of "Imogen", an application with a mission to help companies to digitalize their business.
+
+Continuous learning and growing as a developer motivated me to be an open-source contributor. I currently develop various ETLs for the RavenDB NoSql database.
+
+Oh, and I changed the database on a project in production :)
+
+If you want to discuss technology or need assistance with your software project, please contact me on LinkedIn. Alternatively, you can also email me at djukicdjole@gmail.com.
+
 <!--
 **djordjedjukic/djordjedjukic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
